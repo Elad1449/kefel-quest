@@ -1,0 +1,1 @@
+import{j as e}from"./index-DE_GTD2G.js";import{S as a,I as o}from"./Scene3D-e9Bl23Sl.js";function m({look:r,mood:t="idle"}){return e.jsx(a,{orbit:!0,autoRotate:!0,className:"viewer",camera:[0,1.35,4.4],target:[0,1,0],children:e.jsx(o,{look:r,mood:t})})}export{m as default};
